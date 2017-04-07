@@ -119,7 +119,7 @@ html,body,div,input,p,span,ul,li,h1,h2,h3,h4,h5,h6,a,img,form,dl,dd,dt{
     left: 125px;
     width: 166px;
     height: 165px;
-    background-image: url(images/ae.png);
+    background-image: url(images/ps.png);
 }
 .g2{
     position: absolute;
@@ -143,7 +143,7 @@ html,body,div,input,p,span,ul,li,h1,h2,h3,h4,h5,h6,a,img,form,dl,dd,dt{
     left: 1009px;
     width: 166px;
     height: 165px;
-    background-image: url(images/ps.png);
+    background-image: url(images/ae.png);
 }
 .b1{
     position: absolute;
@@ -197,7 +197,7 @@ html,body,div,input,p,span,ul,li,h1,h2,h3,h4,h5,h6,a,img,form,dl,dd,dt{
 .b8{
     position: absolute;
     top: 400px;
-    left: 1010px;
+    left: 1020px;
     font:400 26px '微软雅黑';
     color:#ffd205;
 }
